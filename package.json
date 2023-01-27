@@ -1,0 +1,23 @@
+{
+  "name": "hacktiv-cafe",
+  "version": "1.0.0",
+  "description": "Challenge ini dinilai 💯",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmt-32-freesia-fox/hacktiv-cafe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmt-32-freesia-fox/hacktiv-cafe/issues"
+  },
+  "homepage": "https://github.com/rmt-32-freesia-fox/hacktiv-cafe#readme",
+  "dependencies": {
+    "pg": "^8.8.0"
+  }
+}
